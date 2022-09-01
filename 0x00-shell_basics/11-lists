@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lar /boot | wc -m
+ls -al . .. /boot
